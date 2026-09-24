@@ -13,30 +13,30 @@
 # this program. If not, see <https://www.gnu.org/licenses/>.
 
 ship "Kar Ik Vot 349"
-	sprite "ship/kar ik vot 349"
-	thumbnail "thumbnail/kar ik vot 349"
+#	sprite "ship/kar ik vot 349"
+#	thumbnail "thumbnail/kar ik vot 349"
 	attributes
-		category "Heavy Warship"
-		"cost" 41280000
-		"shields" 57200
-		"hull" 65400
-		"automaton" 1
-		"crew equivalent" 150
-		"mass" 3754
-		"drag" 33.6
-		"heat dissipation" .25
-		"fuel capacity" 400
-		"cargo space" 87
+#		category "Heavy Warship"
+#		"cost" 41280000
+#		"shields" 57200
+#		"hull" 65400
+#		"automaton" 1
+#		"crew equivalent" 150
+#		"mass" 3754
+#		"drag" 33.6
+#		"heat dissipation" .25
+#		"fuel capacity" 400
+#		"cargo space" 87
 		"outfit space" 1154
 		"weapon capacity" 547
-		"engine capacity" 173
-		"self destruct" .8
-		"ramscoop" 3
-		weapon
-			"blast radius" 450
-			"shield damage" 6400
-			"hull damage" 3200
-			"hit force" 9600
+#		"engine capacity" 173
+#		"self destruct" .8
+#		"ramscoop" 3
+#		weapon
+#			"blast radius" 450
+#			"shield damage" 6400
+#			"hull damage" 3200
+#			"hit force" 9600
 	outfits
 		"Korath Detainer" 2
 		"Piercer Missile Launcher" 4
@@ -73,10 +73,10 @@ ship "Kar Ik Vot 349"
 	turret 55 -120 "Warder Anti-Missile"
 	turret -136 250 "Warder Anti-Missile"
 	turret 136 250 "Warder Anti-Missile"
-	explode "tiny explosion" 120
-	explode "small explosion" 60
-	explode "medium explosion" 70
-	explode "large explosion" 50
-	explode "huge explosion" 15
-	"final explode" "final explosion large"
-	description "The largest and deadliest of the Kor Sestor robotic warships, a single one of these battlecruisers can hold its own against an entire fleet of lesser ships."
+#	explode "tiny explosion" 120
+#	explode "small explosion" 60
+#	explode "medium explosion" 70
+#	explode "large explosion" 50
+#	explode "huge explosion" 15
+#	"final explode" "final explosion large"
+#	description "The largest and deadliest of the Kor Sestor robotic warships, a single one of these battlecruisers can hold its own against an entire fleet of lesser ships."
